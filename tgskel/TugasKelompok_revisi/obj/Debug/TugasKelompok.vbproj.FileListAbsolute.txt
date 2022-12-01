@@ -1,0 +1,123 @@
+E:\kuliah abi\visual studio\TugasKelompok\bin\Debug\TugasKelompok.exe.config
+E:\kuliah abi\visual studio\TugasKelompok\bin\Debug\TugasKelompok.exe
+E:\kuliah abi\visual studio\TugasKelompok\bin\Debug\TugasKelompok.pdb
+E:\kuliah abi\visual studio\TugasKelompok\bin\Debug\TugasKelompok.xml
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.vbproj.AssemblyReference.cache
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.Form1.resources
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.Resources.resources
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.vbproj.GenerateResource.cache
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.vbproj.CoreCompileInputs.cache
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.exe
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.xml
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.pdb
+E:\kuliah abi\visual studio\TugasKelompok\bin\Debug\Bunifu_UI_v1.52.dll
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.vbproj.CopyComplete
+E:\kuliah abi\visual studio\TugasKelompok\obj\Debug\TugasKelompok.Form2.resources
+C:\Users\siesi\Downloads\TugasKelompok\bin\Debug\TugasKelompok.exe.config
+C:\Users\siesi\Downloads\TugasKelompok\bin\Debug\TugasKelompok.exe
+C:\Users\siesi\Downloads\TugasKelompok\bin\Debug\TugasKelompok.pdb
+C:\Users\siesi\Downloads\TugasKelompok\bin\Debug\TugasKelompok.xml
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.vbproj.AssemblyReference.cache
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.Form1.resources
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.Resources.resources
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.vbproj.GenerateResource.cache
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.vbproj.CoreCompileInputs.cache
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.vbproj.CopyComplete
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.exe
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.xml
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.pdb
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.welcomepage.resources
+C:\Users\siesi\Downloads\TugasKelompok\obj\Debug\TugasKelompok.Form2.resources
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\bin\Debug\TugasKelompok.exe.config
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\bin\Debug\TugasKelompok.exe
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\bin\Debug\TugasKelompok.pdb
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\bin\Debug\TugasKelompok.xml
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.vbproj.AssemblyReference.cache
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.Form1.resources
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.Form2.resources
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.Resources.resources
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.welcomepage.resources
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.vbproj.GenerateResource.cache
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.vbproj.CoreCompileInputs.cache
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.vbproj.CopyComplete
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.exe
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.xml
+D:\Yulia Lim\Kuliah\Semester 3\Analysis IS\TugasKelompok\obj\Debug\TugasKelompok.pdb
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe.config
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\bin\Debug\TugasKelompok.pdb
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\bin\Debug\TugasKelompok.xml
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.AssemblyReference.cache
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form1.resources
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form2.resources
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.Resources.resources
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.welcomepage.resources
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.GenerateResource.cache
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CoreCompileInputs.cache
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CopyComplete
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.exe
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.xml
+C:\Users\GaryBs\Dropbox\My PC (LAPTOP-LN98P5R4)\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.pdb
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe.config
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\bin\Debug\TugasKelompok.pdb
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\bin\Debug\TugasKelompok.xml
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.AssemblyReference.cache
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form1.resources
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form2.resources
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.Resources.resources
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.welcomepage.resources
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.GenerateResource.cache
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CoreCompileInputs.cache
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CopyComplete
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.exe
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.xml
+C:\Users\Yulia Lim\Downloads\TugasKelompok_revisi\TugasKelompok_revisi\obj\Debug\TugasKelompok.pdb
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe.config
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\bin\Debug\TugasKelompok.pdb
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\bin\Debug\TugasKelompok.xml
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\bin\Debug\Bunifu_UI_v1.52.dll
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.AssemblyReference.cache
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form1.resources
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form2.resources
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.Resources.resources
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.welcomepage.resources
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.GenerateResource.cache
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CoreCompileInputs.cache
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CopyComplete
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.exe
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.xml
+E:\kuliah abi\visual studio\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.pdb
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe.config
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\bin\Debug\TugasKelompok.pdb
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\bin\Debug\TugasKelompok.xml
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.AssemblyReference.cache
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form1.resources
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form2.resources
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.Resources.resources
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.welcomepage.resources
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.GenerateResource.cache
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CoreCompileInputs.cache
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CopyComplete
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.exe
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.xml
+C:\Users\siesi\OneDrive\Documents\TugasKelompok\TugasKelompok_revisi\obj\Debug\TugasKelompok.pdb
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.AssemblyReference.cache
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form1.resources
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.Form2.resources
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.Member.resources
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.Resources.resources
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.welcomepage.resources
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.GenerateResource.cache
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CoreCompileInputs.cache
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.exe
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.xml
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.pdb
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe.config
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\bin\Debug\TugasKelompok.exe
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\bin\Debug\TugasKelompok.pdb
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\bin\Debug\TugasKelompok.xml
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\bin\Debug\Bunifu_UI_v1.52.dll
+E:\kuliah abi\visual studio\tgskel\TugasKelompok_revisi\obj\Debug\TugasKelompok.vbproj.CopyComplete
